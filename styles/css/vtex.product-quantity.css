@@ -1,0 +1,8 @@
+.quantitySelectorContainer{margin-left:.5em;}
+.quantitySelectorTitle{font-weight: bold;color:#6d4f05;text-align: center;font-size:.7em;text-transform:uppercase;margin-bottom:.5em;width:100px;}
+.quantitySelectorContainer input{border:1px solid #eeb21c;width:100px;height:40px;text-align: left;padding-left:2em;}
+.quantitySelectorStepper button{background:#333;color:#fff;border:0;}
+.quantitySelectorStepper{max-width:105px;position:relative;height:40px;margin:0 auto;}
+.quantitySelectorStepper > div > div div button{position: absolute;top:0;right:0;height:50%;border-radius:0;color:transparent;background: url(https://storetheme003.vtexassets.com/assets/vtex.file-manager-graphql/images/down-arrow___c643765945217e50020e784ef4d60393.png) no-repeat center scroll #EEB21C;background-size:12px;transform:rotate(180deg);width:2em !important}
+.quantitySelectorStepper > div > div div:last-child button{position: absolute;bottom:0;right:0;height:50%;top:inherit;border-radius:0;color:transparent;transform:rotate(0);}
+/*.quantitySelectorStepper button:last-child{position: absolute;bottom:0;right:0; height:} */
