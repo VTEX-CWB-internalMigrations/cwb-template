@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
-  "name": "brasil-tatica",
-  "version": "0.0.62",
+  "name": "aumann",
+  "version": "0.0.1",
   "builders": {
     "styles": "1.x",
     "store": "0.x",
