@@ -28,6 +28,7 @@
   font-size: 1.5em;
   color: #8a8a8a;
   text-transform: uppercase;  
+  font-family: sans-serif;
 }
 
 .container--style-title-menuSegmented .paragraph{
@@ -133,7 +134,14 @@
 }
 
 .container--deals{justify-content: center;}
-.container--deals .paragraph{margin:.3em 0;font-size:.9em;text-align: left;display: flex;font-family: 'Raleway';}
+.container--deals .paragraph{
+  margin:.3em 0;
+  font-size:.9em;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  font-family: sans-serif
+}
 
 .container--howBuy-title{text-align: center;justify-content: center;}
 .container--howBuy-title .headingLevel3{
@@ -273,6 +281,13 @@
 .link--link-footer{
   color: inherit;
   text-decoration: none;;
+}
+
+.link--style-title-menuSegmented{
+    color: #000;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: sans-serif;
 }
 
 @media only screen and (min-width: 40em){
