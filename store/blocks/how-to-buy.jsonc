@@ -65,7 +65,8 @@
             "text":"O registro deverá ser feito diretamente pelo cliente. Após recebermos a AUTORIZAÇÃO PARA AQUISIÇÃO DE ARMA DE FOGO, enviaremos a 2ª via da Nota Fiscal com a numeração e características da arma, a fim de ser efetuado o registro. Após a emissão do registro, nos deverá ser enviada uma fotocópia autenticada do registro, RG e CPF para a emissão da Guia de Tráfego e o envio da arma.",
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
-            "text-color":"c-on-muted"            
+            "text-color":"c-on-muted",
+            "blockClass": "test"            
         }
     },
     "flex-layout.col#register02":{
